@@ -80,7 +80,7 @@ button{
 
 
 .rows{
-    display: flex;;
+    display: flex;
     justify-content: space-between;
     align-items: center;
     height: 50px;
@@ -136,7 +136,7 @@ p b{
     background-color:hsla(252, 100%, 67%,1); ;
     border: none;
 }
-@media screen and (max-width:650px){
+/* @media screen and (max-width:650px){
     body{
         align-items: flex-start;
      background-color: white;
@@ -173,7 +173,7 @@ p b{
     
 
         
-}
+} */
 
 
 
